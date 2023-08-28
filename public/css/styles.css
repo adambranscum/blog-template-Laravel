@@ -1,0 +1,36 @@
+.bg-cover{
+    background-color: #76A698;
+}
+
+body{
+    background-color: #f5ece5;
+}
+.f-cover {
+	font-family: 'Playfair Display', serif;
+	font-size: 5rem;
+}
+.list-group-item {
+background-color: transparent !important;
+border: none !important;
+}
+.f-nav {
+	font-family: 'Playfair Display', serif;
+}
+
+.text-cream {
+	color:  #76A698;
+}
+
+.text-card {
+font-family: 'Nunito', sans-serif;
+}
+
+.btn-card {
+
+	background-color: white !important;
+	border-radius:30px !important;
+}
+
+
+
+
